@@ -7,7 +7,7 @@ $categorias = [
     acabamento => 'Acabamento'
 ];
 
-produtos_base = [
+$produtos_base = [
     [
         'id' = 1
         'nome' = 'Saco de cimento'
