@@ -10,7 +10,8 @@
     <?php
     
     print '<h1>ola mundooooo</h1>';
-
+    print '<a href="detalhes-do-produto.php">Detalhes do produto</a>';
+    print '<a href="404.php">Error</a>';
     require_once 'partials/footer.php';
     ?>
 </body>
